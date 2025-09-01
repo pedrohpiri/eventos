@@ -1,6 +1,5 @@
 <template>
   <div class="alignment-card">
-    <img src="../alinhamento.png" alt="Alinhamento Evento" class="alignment-image" />
     <h2>Alinhamento Evento</h2>
   </div>
 </template>
