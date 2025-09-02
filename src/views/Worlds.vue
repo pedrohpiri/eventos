@@ -15,7 +15,7 @@
         <div class="command-highlight">
           <font-awesome-icon icon="lightbulb" class="icon" /> <strong>Comando útil:</strong>
           <p>
-            <code>mundoarea 10 evento</code> - O número <code>10</code> é apenas um exemplo de distância (pode ser de <code>0</code> a <code>100</code>). Esse comando envia todas as pessoas no <strong>raio de distância X</strong> para o <strong>mundo desejado</strong>, podendo ser qualquer um dos listados acima.
+            <code>mundoarea evento 10</code> - O número <code>10</code> é apenas um exemplo de distância (pode ser de <code>0</code> a <code>100</code>). Esse comando envia todas as pessoas no <strong>raio de distância X</strong> para o <strong>mundo desejado</strong>, podendo ser qualquer um dos listados acima.
           </p>
         </div>
       </div>
